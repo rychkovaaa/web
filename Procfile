@@ -1,1 +1,1 @@
-web: pyton fff.py
+web: python fff.py
